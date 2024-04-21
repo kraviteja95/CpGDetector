@@ -11,6 +11,7 @@ This repository contains code for a simple CpG (Cytosine-phosphate-Guanine) pred
 5. [Evaluation](#evaluation)
 6. [Variable-Length Sequences](#variable-length-sequences)
 7. [Saving the Model](#saving-the-model)
+8. [Few Points to Ponder](#points-to-ponder)
 
 ## Introduction
 
