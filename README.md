@@ -11,7 +11,7 @@ This repository contains code for a simple CpG (Cytosine-phosphate-Guanine) pred
 5. [Evaluation](#evaluation)
 6. [Variable-Length Sequences](#variable-length-sequences)
 7. [Saving the Model](#saving-the-model)
-8. [Few Points to Ponder](#points-to-ponder)
+8. [Points to Ponder](#points-to-ponder)
 
 ## Introduction
 
@@ -64,7 +64,7 @@ Support for variable-length sequences is added by modifying the dataset preparat
 
 The trained model is saved to disk in two formats: as a state dictionary (`trained_model.pth`) and as the entire model (`cpg_detector_model.pth`). These files can be downloaded and used for inference on new data.
 
-## Few Points to Ponder
+## Points to Ponder
 
 ## Why Did We Use LSTM with PyTorch?
 
